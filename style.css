@@ -43,14 +43,14 @@ html {
 /* ============================ */
 
 body {
-    color: blue;
-}
+    background-color: #f5f5f5; /* Replace with your preferred color */
+  }
 
 pre {
     color: rgb(0, 0, 0);
     font-size: 15px ;
     padding: 10px 10px;
-    background-color: rgb(250, 201, 110);
+    background-color: rgb(255, 212, 131);
 }
 
 div {
