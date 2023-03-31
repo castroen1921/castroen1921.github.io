@@ -61,3 +61,26 @@ pre {
     font-size: 15px ;
     background-color: rgb(250, 201, 110);
 }
+
+
+/* styles for screens less than or equal to 600px wide */
+@media (max-width: 600px) {
+    body {
+      font-size: 14px;
+    }
+  }
+  
+  /* styles for screens between 600px and 1200px wide */
+  @media (min-width: 600px) and (max-width: 1200px) {
+    body {
+      font-size: 16px;
+    }
+  }
+  
+  /* styles for screens greater than 1200px wide */
+  @media (min-width: 1200px) {
+    body {
+      font-size: 18px;
+    }
+  }
+  
