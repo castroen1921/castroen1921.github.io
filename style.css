@@ -59,14 +59,18 @@ h1 {
 pre {
     color: rgb(0, 0, 0);
     font-size: 15px ;
+    margin right: 10px;
+    padding: 10px 10px;
     background-color: rgb(250, 201, 110);
 }
 
 div {
     margin: 0 auto;
     width: 50%; /* or whatever width you want */
+    padding: 10px;
   }
-  
+
+
 
 
 
